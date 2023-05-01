@@ -5,7 +5,8 @@
     
 ?>
 
-<!DOCTYPE html>
+
+!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -99,7 +100,7 @@
                     <td colspan="3" align="center"><input type="submit" name="login" value="Submit"></td>
                 </tr>
                 <tr>
-                    <td colspan="3" align="center"><a href="./forgetPassword.php">Forget Password?</a></td>
+                    <td colspan="3" align="center"><a href="./forgetPassword.php">Forgot Password?</a></td>
                 </tr>
                 <tr>
                     <td colspan="3" align="center"><a href="./registration.php">Create New Account?</a></td>
